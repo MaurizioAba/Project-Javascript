@@ -1,5 +1,5 @@
 # Project-Javascript
-Code collection of some small JavaScript projects. I Show in these examples come how to code a weather app with javascript. 
+Code collection of some small JavaScript projects. I Show in these examples come how to code. 
 
 - Weather app use a weather api and get data from api Open Weather Map.
 - Crypto app with CoinGecko data api.
